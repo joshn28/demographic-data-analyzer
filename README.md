@@ -23,4 +23,4 @@ I used Pandas to answer the following questions:
 - Identify the most popular occupation for those who earn >50K in India.
 
 ## Dataset Source
-Dua, D. and Graff, C. (2019). [http://archive.ics.uci.edu/ml](UCI Machine Learning Repository). Irvine, CA: University of California, School of Information and Computer Science.
+Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Irvine, CA: University of California, School of Information and Computer Science.
